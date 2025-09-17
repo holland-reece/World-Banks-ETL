@@ -1,4 +1,4 @@
-# Project 2: ETL Pipe for Large Banks (Final Project)
+# ETL Pipe for Large Banks (Final Project)
 # IBM Data Engineering Foundations, Module 3: Python Project for Eng
 
 # Updated 2025-09-15
